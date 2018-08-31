@@ -15,6 +15,7 @@ namespace CLASE_3
         public Form1()
         {
             InitializeComponent();
+            //algo
         }
     }
 }
